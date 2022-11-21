@@ -1,0 +1,14 @@
+{
+  "name": "8000",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx codeceptjs run --tests -c codecept.conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "codeceptjs": "^3.3.6"
+  }
+}
